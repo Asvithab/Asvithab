@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Data structures and algorithms 
 - 💞️ I’m looking to collaborate on open source projects
 - 🔭 I'm currently pursuig a B.E. CSE at Chennai Institute of Technology and Applied Research.
-- 
-- 
+
   
 
 <!---
